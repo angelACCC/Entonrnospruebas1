@@ -5,8 +5,8 @@ public class Ejercicio3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Hola uuu");
-		//HOlaaaaaa
-		
+		//uwu
+		System.out.println("wwwwwww");
 	}
 
 }
